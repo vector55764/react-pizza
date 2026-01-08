@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-interface Pizza {
+export interface Pizza {
   id: number;
   imageUrl: string;
   title: string;
